@@ -6,6 +6,7 @@ This repository contains the migration planning document and associated resource
 ## 📘 Project Overview
 
 TechCorp Solutions is a mid-sized IT services company aiming to:
+
 - Enhance scalability and reduce operational costs.
 - Improve security and disaster recovery capabilities.
 - Transition critical workloads to a cloud environment with minimal downtime.
@@ -54,31 +55,38 @@ cloud-migration-planning/
 ## 📈 Milestones
 
 ### 1. Discovery Phase
+
 - Inventory current infrastructure.
 - Identify critical applications and dependencies.
 
 ### 2. Strategy Planning
+
 - Choose migration approaches (e.g., rehost, refactor).
 - Prioritize workloads for migration.
 
 ### 3. Risk Analysis
+
 - Identify risks (e.g., data loss, downtime).
 - Propose mitigation strategies.
 
 ### 4. Architecture Design
+
 - Design future state in Azure.
 - Include scalability, security, and disaster recovery considerations.
 
 ### 5. Cost Estimation
+
 - Estimate Azure costs for compute, storage, and services.
 - Compare with on-premises costs.
 
 ### 6. Documentation
+
 - Compile findings into a comprehensive migration document.
 
 ## ✍️ How to Contribute
 
 This repository is part of a learning project. Contributions are welcome! To contribute:
+
 1. Fork the repository.
 2. Create a feature branch: `git checkout -b feature/your-feature`.
 3. Commit changes: `git commit -m "Add your feature"`.
@@ -96,7 +104,7 @@ This repository is part of a learning project. Contributions are welcome! To con
 
 **Khalil**  
 Systems Administrator | Cloud Enthusiast  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/mohamed-khalil-khamassi-474777176/) | [GitHub](https://github.com/medkhalilkhamassi/)
 
 ---
 
